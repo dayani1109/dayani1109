@@ -55,41 +55,58 @@ I'm **Dayani De Silva**, a third-year Information Technology undergraduate at **
     <td width="50%" valign="top">
       <h4>🏛️ Campus Core Hub</h4>
       <p><i>Smart Campus Operations & Resource Platform</i></p>
-      <p>🔗 <a href="https://github.com/dayani1109">Repository</a></p>
-      <p>Secure campus management system regulating resource reservations, multi-level incident reporting, and role-based access across 3 authorization layers.</p>
+      <p>🔗 <a href="https://github.com/NeshanAbeysooriya/IT3030-paf-2026-smart-campus-group63.git">Repository</a></p>
+      <p>Secure campus management platform regulating resource reservations, incident reporting, and role-based authorization across multiple access levels.</p>
       <br />
       <img src="https://skillicons.dev/icons?i=spring,react,mysql,postman" height="30" alt="Tech Stack Icons" />
     </td>
     <td width="50%" valign="top">
       <h4>🍱 Uni Serve</h4>
       <p><i>Canteen Pre-Order & Crowd Management System</i></p>
-      <p>🔗 <a href="https://github.com/dayani1109">Repository</a></p>
-      <p>Full-stack web application designed for campus dining, featuring dynamic pickup time slots, real-time orders, and 15+ automated Playwright tests.</p>
+      <p>🔗 <a href="https://github.com/NeshanAbeysooriya/ITPM-Web-Project-UNISERVE-Canteen-Crowd-Control-System.git">Repository</a></p>
+      <p>Full-stack web application designed for campus dining, featuring dynamic pickup slots, real-time pre-orders, and automated Playwright E2E testing.</p>
       <br />
       <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,tailwind" height="30" alt="Tech Stack Icons" />
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>📱 Daily Habit Tracker</h4>
-      <p><i>Android Mobile Task & Habit Tracker</i></p>
-      <p>🔗 <a href="https://github.com/dayani1109">Repository</a></p>
-      <p>Native Android application built for personal routine optimization, featuring dynamic layout containers, custom progress indicators, and task scheduling.</p>
+      <h4>🔤 Singlish-to-Sinhala Translator</h4>
+      <p><i>NLP Transliteration & Language Utility</i></p>
+      <p>🔗 <a href="https://github.com/dayani1109/Playwright_Testing.git">Repository</a></p>
+      <p>Language processing application converting phonetic Singlish text into Sinhala script in real time, handling contextual grammar rules and character mapping.</p>
       <br />
-      <img src="https://skillicons.dev/icons?i=androidstudio,java,kotlin" height="30" alt="Tech Stack Icons" />
+      <img src="https://skillicons.dev/icons?i=py,js,html,css" height="30" alt="Tech Stack Icons" />
     </td>
     <td width="50%" valign="top">
       <h4>💎 Crystal Beauty Clear</h4>
       <p><i>Cosmetic E-Commerce Storefront</i></p>
-      <p>🔗 <a href="https://github.com/dayani1109/cbc-frontend">Repository</a></p>
-      <p>Modern e-commerce platform with product filtering, cloud-based asset handling via Supabase, dynamic shopping carts, and administrative reporting.</p>
+      <p>🔗 <a href="https://github.com/dayani1109/cbc-frontend.git">Frontend</a></p>
+       <p>🔗 <a href="https://github.com/dayani1109/cbc-backend.git">Backend</a></p>
+      <p>E-commerce web application featuring product filtering, Supabase cloud asset management, dynamic shopping cart logic, and admin report exports.</p>
       <br />
       <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,supabase,tailwind" height="30" alt="Tech Stack Icons" />
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🎓 IT GURU</h4>
+      <p><i>E-Tutoring & Academic Resource Platform</i></p>
+      <p>🔗 <a href="https://github.com/dayani1109/New-ITGuru-.git">Repository</a></p>
+      <p>Online learning portal facilitating student-tutor scheduling, study material management, and course interaction workflows.</p>
+      <br />
+      <img src="https://skillicons.dev/icons?i=js,nodejs,express,mongodb,bootstrap" height="30" alt="Tech Stack Icons" />
+    </td>
+    <td width="50%" valign="top">
+      <h4>🔨 Big Magnet</h4>
+      <p><i>Online Bidding & Auction System</i></p>
+      <p>🔗 <a href="https://github.com/dayani1109">Repository</a></p>
+      <p>Web auction platform engineered for real-time item listing, dynamic bid tracking, timer triggers, and user transaction management.</p>
+      <br />
+      <img src="https://skillicons.dev/icons?i=java,spring,mysql,html,css" height="30" alt="Tech Stack Icons" />
+    </td>
+  </tr>
 </table>
-
----
 
 ### 📊 GitHub Insights
 
