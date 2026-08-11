@@ -1,21 +1,23 @@
-<!-- Waving Header Banner -->
+<!-- Modern Gradient Hero Banner with Floating Header Effect -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Dayani%20De%20Silva&fontSize=48&fontAlign=50&fontAlignY=35&fontColor=fff&animation=twinkling&desc=Full-Stack%20Developer%20%7C%20QA%20Automation%20%7C%20Problem%20Solver&descAlign=50&descAlignY=60" alt="banner" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Dayani%20De%20Silva&fontSize=50&fontAlign=50&fontAlignY=35&fontColor=fff&animation=twinkling&desc=Full-Stack%20Developer%20%7C%20QA%20Automation%20%7C%20Problem%20Solver&descAlign=50&descAlignY=60" alt="Animated Header Banner" width="100%"/>
 </p>
 
 <!-- Dynamic Typing SVG Line -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&pause=1100&center=true&vCenter=true&width=920&duration=2800&lines=Building+scalable+full-stack+web+%2B+mobile+apps;MERN+Stack+%2B+Java+Spring+Boot+%2B+Playwright;Automated+E2E+Testing+%E2%80%A2+REST+APIs+%E2%80%A2+Clean+Architecture" alt="typing">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&pause=1100&center=true&vCenter=true&width=920&duration=2800&lines=Building+scalable+full-stack+web+%2B+mobile+apps;MERN+Stack+%2B+Java+Spring+Boot+%2B+Playwright;Automated+E2E+Testing+%E2%80%A2+REST+APIs+%E2%80%A2+Clean+Architecture" alt="Typing Animation">
 </p>
 
-<!-- Badges Row -->
+<!-- Animated Badges & Quick Links -->
 <p align="center">
-  <a href="https://dayani-desilva.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-0D1117?style=for-the-badge&logo=vercel&logoColor=00f2fe" /></a>
-  <a href="https://linkedin.com/in/dayani-de-silva"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:mkdkdesilva@gmail.com"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://dayani-desilva.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-0D1117?style=for-the-badge&logo=vercel&logoColor=00f2fe" alt="Portfolio Badge"/></a>
+  <a href="https://linkedin.com/in/dayani-de-silva"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+  <a href="mailto:mkdkdesilva@gmail.com"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/></a>
 </p>
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-db036b00-a447-11eb-8417-3807d9f78335.gif" width="100%" alt="Gradient Divider Animation"/>
+</p>
 
 ### 🙋‍♀️ About Me
 
@@ -35,14 +37,16 @@ I'm **Dayani De Silva**, a third-year Information Technology undergraduate at **
 
 <p align="left">
   <!-- Languages -->
-  <img src="https://skillicons.dev/icons?i=java,js,py,kotlin,c,cpp,php,html,css&perline=9" /><br />
+  <img src="https://skillicons.dev/icons?i=java,js,py,kotlin,c,cpp,php,html,css&perline=9" alt="Languages Stack" /><br />
   <!-- Frameworks & Frontend -->
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,spring,tailwind,bootstrap,figma&perline=7" /><br />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,spring,tailwind,bootstrap,figma&perline=7" alt="Frameworks Stack" /><br />
   <!-- Databases, Cloud & QA Tools -->
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,supabase,postman,vscode,github,androidstudio,vercel" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,supabase,postman,vscode,github,androidstudio,vercel" alt="Tools Stack" />
 </p>
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-db036b00-a447-11eb-8417-3807d9f78335.gif" width="100%" alt="Gradient Divider Animation"/>
+</p>
 
 ### 🚀 Featured Projects
 
@@ -54,7 +58,7 @@ I'm **Dayani De Silva**, a third-year Information Technology undergraduate at **
       <p>🔗 <a href="https://github.com/dayani1109">Repository</a></p>
       <p>Secure campus management system regulating resource reservations, multi-level incident reporting, and role-based access across 3 authorization layers.</p>
       <br />
-      <img src="https://skillicons.dev/icons?i=spring,react,mysql,postman" height="30" />
+      <img src="https://skillicons.dev/icons?i=spring,react,mysql,postman" height="30" alt="Tech Stack Icons" />
     </td>
     <td width="50%" valign="top">
       <h4>🍱 Uni Serve</h4>
@@ -62,7 +66,7 @@ I'm **Dayani De Silva**, a third-year Information Technology undergraduate at **
       <p>🔗 <a href="https://github.com/dayani1109">Repository</a></p>
       <p>Full-stack web application designed for campus dining, featuring dynamic pickup time slots, real-time orders, and 15+ automated Playwright tests.</p>
       <br />
-      <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,tailwind" height="30" />
+      <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,tailwind" height="30" alt="Tech Stack Icons" />
     </td>
   </tr>
   <tr>
@@ -72,7 +76,7 @@ I'm **Dayani De Silva**, a third-year Information Technology undergraduate at **
       <p>🔗 <a href="https://github.com/dayani1109">Repository</a></p>
       <p>Native Android application built for personal routine optimization, featuring dynamic layout containers, custom progress indicators, and task scheduling.</p>
       <br />
-      <img src="https://skillicons.dev/icons?i=androidstudio,java,kotlin" height="30" />
+      <img src="https://skillicons.dev/icons?i=androidstudio,java,kotlin" height="30" alt="Tech Stack Icons" />
     </td>
     <td width="50%" valign="top">
       <h4>💎 Crystal Beauty Clear</h4>
@@ -80,7 +84,7 @@ I'm **Dayani De Silva**, a third-year Information Technology undergraduate at **
       <p>🔗 <a href="https://github.com/dayani1109/cbc-frontend">Repository</a></p>
       <p>Modern e-commerce platform with product filtering, cloud-based asset handling via Supabase, dynamic shopping carts, and administrative reporting.</p>
       <br />
-      <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,supabase,tailwind" height="30" />
+      <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,supabase,tailwind" height="30" alt="Tech Stack Icons" />
     </td>
   </tr>
 </table>
@@ -89,15 +93,15 @@ I'm **Dayani De Silva**, a third-year Information Technology undergraduate at **
 
 ### 📊 GitHub Insights
 
-<!-- Card 1: Streak Stats -->
+<!-- Animated Contribution Streak Card -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dayani1109&theme=tokyonight&hide_border=true" height="185" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dayani1109&theme=tokyonight&hide_border=true" height="175" alt="GitHub Streak Stats" />
 </p>
 
-<!-- Card 2 (Working Profile Card) + Card 3 (Replacement GitHub Trophies) -->
+<!-- Working Profile Card & Animated Trophies -->
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dayani1109&theme=tokyonight" height="195" />
-  <img src="https://github-profile-trophies.vercel.app/?username=dayani1109&theme=tokyonight&no-frame=true&column=3&margin-w=25" height="195" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dayani1109&theme=tokyonight" height="175" alt="Profile Details Card" />
+  <!-- <img src="https://github-profile-trophies.vercel.app/?username=dayani1109&theme=tokyonight&no-frame=true&column=3&margin-w=15" height="175" alt="GitHub Trophies" /> -->
 </p>
 
 ---
